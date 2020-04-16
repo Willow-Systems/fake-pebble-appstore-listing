@@ -5,3 +5,13 @@ This is an all-in-one html page that shows an appstore listing from the pebble a
 ## Why?
 
 This will be used as the base for the appstore preview in the rebble developer portal.
+
+## Comparison:
+
+Real Appstore: 
+
+![](readme-images/real.png)
+
+Fake Appstore Page:
+
+![](readme-images/fake.png)
